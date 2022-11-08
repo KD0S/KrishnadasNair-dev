@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @KrishnadasNair-dev
 - 👀 I’m interested in  DSA, Web Dev and Machine Learning
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Web Development
+
 
 <!---
 KrishnadasNair-dev/KrishnadasNair-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
