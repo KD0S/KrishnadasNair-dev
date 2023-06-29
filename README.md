@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @KrishnadasNair-dev
-- 👀 I’m interested in  DSA, Web Dev and Machine Learning
-- 🌱 I’m currently learning Web Development
 
 
 <!---
